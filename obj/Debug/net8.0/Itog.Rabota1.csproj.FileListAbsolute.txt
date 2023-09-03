@@ -1,0 +1,15 @@
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.csproj.AssemblyReference.cache
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.AssemblyInfoInputs.cache
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.AssemblyInfo.cs
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.csproj.CoreCompileInputs.cache
+F:\Itog.Rabota1\bin\Debug\net8.0\Itog.Rabota1.exe
+F:\Itog.Rabota1\bin\Debug\net8.0\Itog.Rabota1.deps.json
+F:\Itog.Rabota1\bin\Debug\net8.0\Itog.Rabota1.runtimeconfig.json
+F:\Itog.Rabota1\bin\Debug\net8.0\Itog.Rabota1.dll
+F:\Itog.Rabota1\bin\Debug\net8.0\Itog.Rabota1.pdb
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.dll
+F:\Itog.Rabota1\obj\Debug\net8.0\refint\Itog.Rabota1.dll
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.pdb
+F:\Itog.Rabota1\obj\Debug\net8.0\Itog.Rabota1.genruntimeconfig.cache
+F:\Itog.Rabota1\obj\Debug\net8.0\ref\Itog.Rabota1.dll
